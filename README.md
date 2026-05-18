@@ -1,6 +1,4 @@
-<img src="https://github.com/Sooffaaa/Sooffaaa/blob/main/video%20(2).gif?raw=true" 
-     alt="Демонстрация проекта" 
-     width="600">
+![Демонстрация работы моего проекта](https://github.com/Sooffaaa/Sooffaaa/blob/main/Neon%20and%20rain.gif?raw=true)
 
 <!--
 **Sooffaaa/Sooffaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
